@@ -18,7 +18,7 @@ export const mockPractices: PracticeSummary[] = [
     country: "Nigeria",
     newPatientsThisMonth: 14,
     appointmentRequests: 38,
-    conversionRate: 36.8,
+    conversionRate: 99.8,
     monthlyTrend: [18, 20, 15, 12, 10, 14],
   },
   {
